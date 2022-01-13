@@ -13,4 +13,15 @@ Ideas of RPGs:
 * RPG where you are the tragic remains of a great treasure hunt, the Hobbit but smaug killed most everyone. You are on your journey home with the treasure, which poses a huge logistical, not to mention exconomic issue.
 * FitD + Burning Wheel
 * FitD + ARS Magica
-* RPG that takes inspiration from [Root](https://boardgamegeek.com/boardgame/237182/root)'s playmats and aysmetrical game play
+* RPG that takes inspiration from [Root](https://boardgamegeek.com/boardgame/237182/root)'s playmats and aysmetrical game play.
+* FitD or PbtA about the things that scared suburbia in the 80s
+  * Playbooks would be:
+    * D&D player
+    * Stanist
+    * heavy metal / rocket
+    * hacker
+    * spiritual? yoga? community? hippy something in that vain
+    * The new kid who hasn't fit in, similar to *The Mundane* from *Monster of the Week*
+    * Bad boy/girl
+    * The transgressive, LGBTQA+, polyamory, anything that would break the precived / understood social mores
+    * Rural, hick, poor - street wise etc
