@@ -3,3 +3,6 @@
   * add glassdoor and other ratings per company
 * Resume builder that stiches together individual markdown files int latex to be exported as pdf
 * Collusion/[Lightbeam](https://en.wikipedia.org/wiki/Lightbeam_(software)) [github](https://github.com/mozilla/lightbeam-we), lazy load and unload history data to not crash things!
+* Garden planning selfhostable service
+  * gardens have beds, beds have plants
+  * tracks companion plants, nutriciou needs etc
