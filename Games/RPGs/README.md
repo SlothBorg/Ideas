@@ -26,4 +26,4 @@ Ideas of RPGs:
     * The transgressive, LGBTQA+, polyamory, anything that would break the precived / understood social mores
     * Rural, hick, poor - street wise etc
 * Game that uses Tarot cards as the main resolution mechanic
-* Game that uses finding words in a book as the main resolution mechanic 
+* Game that uses finding words in a book as the main resolution mechanic see [Bring your own book!](https://www.bringyourownbook.com/)
