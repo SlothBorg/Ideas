@@ -1,5 +1,6 @@
 Ideas of RPGs:
 
+* Campaign Setting / Worlds: see [Campaign Setting Mashups](Campaign-Setting-Mashups.md) && [script to generate the mashups](settings.py)
 * [FitD](https://bladesinthedark.com/) + White Wolf mosnter games:
   * Vampire
   * Mage
