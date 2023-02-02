@@ -28,12 +28,20 @@ SETTINGS = {
     'Spelljammer': ['wildspace', 'fantasy spaceships', 'age of exploration ships in space', 'travel between worlds',                 'epic fantasy'],
 }
 
+def python_list_to_md_list(python_list):
+    md_list = ''
+    for item in python_list:
+        md_list += '* ' + item + '\n'
+
+    return md_list
+
 mashuped_settings = list( combinations(SETTINGS.keys(), 2) )
 
 for mashup in mashuped_settings:
     tags = list( set(SETTINGS[mashup[0]]) | set(SETTINGS[mashup[1]]) )
     tags = list( map( lambda x:x.capitalize(), tags ) )
+    tags.sort()
 
-    print(mashup[0] + ' + ' + mashup[1])
-    print(tags)
-    print('---------------------------------------------------------')
+    print('## ' + mashup[0] + ' + ' + mashup[1] + '\n')
+    print( python_list_to_md_list(tags) )
+    print('---' + '\n')
