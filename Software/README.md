@@ -1,5 +1,12 @@
+* Compatability checker
+  * Prompts users to enter items that are:
+    * Must haves
+    * oks
+    * Must not have
+  * As more users join and use it it shows their compatibility %, and what items the conflict on
+* World-building app that uses the [Lame Mage](https://www.lamemage.com/) games of **Microscope**, **Kingdom** etc.
 * Goal tracking: [Loop Habit tracker](https://github.com/iSoron/uhabits) + [githo](https://github.com/Glitchy-Tozier/githo)
-* Script that takes a keyword and returns all relivant listing from a set of job boards based on area / remote
+* Script that takes a keyword and returns all relevant listing from a set of job boards based on area / remote
   * add glassdoor and other ratings per company
 * Resume builder that stiches together individual markdown files int latex to be exported as pdf
 * Collusion/[Lightbeam](https://en.wikipedia.org/wiki/Lightbeam_(software)) [github](https://github.com/mozilla/lightbeam-we), lazy load and unload history data to not crash things!
