@@ -1,24 +1,51 @@
-* https://eshop.para-bellum.com/10-conquest
-* https://www.moonstonethegame.com/index.html
-* https://www.northstarfigures.com/list.php?man=195&page=1
-* https://www.wyrd-games.net/malifaux
-* https://www.manticgames.com/games/kings-of-war/
-* https://www.oathswornminiatures.co.uk/c/4553237/1/burrows-badgers.html
+* Para Bellum Wargames
+  * Conquest – the Last Argument of Kings
+  * Conquest: First Blood
+    * https://eshop.para-bellum.com/10-conquest
+* Moonstone
+  * https://www.moonstonethegame.com/index.html
+* North Star Figures
+  * Frostgrave
+    * https://www.northstarfigures.com/list.php?man=195&page=1
+  * Frostgrave: Ghost Archipelago
+    * https://www.northstarfigures.com/list.php?man=254&page=1
+  * Dracula's America
+    * https://www.northstarfigures.com/list.php?man=248&page=1
+  * Gaslands Refuelled
+    * https://www.northstarfigures.com/list.php?man=282&page=1
+  * The Silver Bayonet
+    * https://www.northstarfigures.com/list.php?man=302&page=1
+  * Oathmark
+    * https://www.northstarfigures.com/list.php?man=257&page=1
+* Malifaux
+  * https://www.wyrd-games.net/malifaux
+* The Other Side
+  * https://giveusyourmoneypleasethankyou-wyrd.com/collections/the-other-side
+* Kings of War
+  * https://www.manticgames.com/games/kings-of-war/
+* Burrows & Badgers
+  * https://www.oathswornminiatures.co.uk/c/4553237/1/burrows-badgers.html
 * Battletech
-* https://store.catalystgamelabs.com/collections/battletech
-* https://www.ironwindmetals.com/
-* Oathmark
-* https://www.northstarfigures.com/list.php?man=257&page=1
+  * https://store.catalystgamelabs.com/collections/battletech
+  * https://www.ironwindmetals.com/
 * D&D and Pathfinder miniatures
 * A Song of Ice and Fire
-* Warmachine/Hordes
+* Warmachine
+* Hordes
 * Flames of War
 * Then you have companies like Wargames, Warlord, Fireforge, Perry
-* Battlefront Miniatures has Flames of War and World War III: Team Yankee
-* Gale Force 9 has World of Tanks: Miniatures Game. World of Tanks
-* Tanks
-* Tanks the Modern Age
-* TT Combat has a few - Carnival, Dropfleet/zone, Rumbleslam
+* Battlefront Miniatures
+  * Flames of War
+  * World War III: Team Yankee
+* Gale Force 9:
+  * World of Tanks: Miniatures Game
+  * Tanks
+  * Tanks the Modern Age
+* TT Combat
+  * Carnival
+  * Dropfleet
+  * Dropzone
+  * Rumbleslam
 * Dream Pod 9
 * Heavy Gear
 * Jovian Chronicles
@@ -26,7 +53,6 @@
 * Modiphius
 * Fallout: Wasteland Warfare
 * The Elder Scrolls: Call To Arms
-* ttcombat Carnevale
 * Warlord Games
 * https://store.warlordgames.com/
 * Blood Red Skies
@@ -35,7 +61,7 @@
 * bolt action
 * Konflict 47
 * Crooked Dice's 7tv
-* https://crooked-dice.co.uk/
+  * https://crooked-dice.co.uk/
 * Dust / Dust Tactics
 * Rezolution
 * Dark Age
@@ -98,21 +124,28 @@
 * Dead Zone
 * Firefight
 * Hellboy
-* Check out Dreadball
+* Dreadball
 * Marvel Crisis Protocol
-* Warmachine/Hordes
 * Monsterpocalypse
-* Corvus Belli Infinity
+* Corvus Belli
+  * Infinity
 * Beyond the Gates of Antares
 * Maelstrom's Edge
-* Dropzone Commander
-* Dropfleet Commander
 * Wild West Exodus
 * Freeboter's Fate
-* Infinity
 * Rapture
+* GCT Bushido
+* Mntic Games' Deadzone etc
+* ace sci-fi skirmish game
+* Spectre Operations
+* Rangers of Shadow Deep
+  * https://www.northstarfigures.com/list.php?man=280&page=1
+* Super Dungeon Explore
+* Alternative Armies
+* Dracula's America
+* Firelock games. Blood and Plunder
 
-The following are from the this [excellent reddit post](https://old.reddit.com/r/minipainting/comments/12ivic3/games_with_a_dedicated_line_of_minis/jfwdlod/)
+* The following are from the this [excellent reddit post](https://old.reddit.com/r/minipainting/comments/12ivic3/games_with_a_dedicated_line_of_minis/jfwdlod/)
 
 * ### Historical/semi-historical, vaguely from oldest periods to newest:
   * SAGA
