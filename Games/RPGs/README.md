@@ -32,3 +32,6 @@ Ideas of RPGs:
     * Rural, hick, poor - street wise etc
 * Game that uses Tarot cards as the main resolution mechanic
 * Game that uses finding words in a book as the main resolution mechanic see [Bring your own book!](https://www.bringyourownbook.com/)
+* use ars magica / MtA as a framework for spell tree based game
+  > Lets assume you have spheres like mage, and each sphere has a number of dots. That can be your vague outline, now there are spells within that, at minimum you have the main sphere + other sphere. Which gives you a decent number of spells per level, 8 spells per level per sphere or 360 spells.
+  > Add in early arcane ugly wand design idea
